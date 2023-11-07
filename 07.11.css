@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1200px;
+    height: 2000px;
+    border: 1px solid black;
+    margin: 100px;
+}
+
+.div3 {
+    padding: 20px;
+    display: flex;
+    gap: 600px;
+    justify-content: space-around;
+}
+
+.ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.img {
+    width: 360px;
+    height: 520px;
+    border-radius: 180px;
+    border: 8px solid #A383E9;
+    background: url(<path-to-image>), lightgray -65.593px -3.763px / 137.387% 128.416% no-repeat;
+}
+
+.div1 {
+    display: flex;
+    gap: 100px;
+    padding: 100px;
+
+}
+
+.alt {
+    margin-top: 100px;
+}
+
+.bobur {
+    color: #C5C5C5;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 96.98px;
+}
+
+.div2 {
+    display: flex;
+    gap: 80px;
+    justify-content: space-around;
+}
+
+.div5 {
+    padding: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+.div4 {
+    display: flex;
+    gap: 100px;
+}
+
+.div6 {
+    display: flex;
+    gap: 30px;
+    margin-right: 40px;
+    margin: 10px;
+}
+
+button {
+    background-color: #A383E9;
+    border-radius: 5px;
+}
+
+.chiziq {
+    margin-left: 90px;
+    width: 970px;
+    height: 2px;
+    border-radius: 2px;
+    background-color: #a383e9
+}
+
+.div8 {
+    display: flex;
+    gap: 30px;
+    background-color: blueviolet;
+}
+
+.h1 {
+    color: #C5C5C5;
+    font-size: 96.98px;
+    font-style: normal;
+    text-transform: uppercase;
+    margin-top: 80px;
+}
+
+.div9 {
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+}
+
+.div10 {
+    margin-top: 40px;
+}
+
+.input {
+    display: block;
+    margin-top: 10px;
+}
+
+.button1 {
+    background-color: #A383E9;
+    border-radius: 5px;
+    padding: 5px;
+    width: 70px;
+    margin-top: 10px;
+}
+
+
+.jj {
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
