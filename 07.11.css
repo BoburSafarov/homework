@@ -47,6 +47,7 @@
 .div2 {
     display: flex;
     justify-content: space-around;
+    padding-left: 20px;
 }
 
 .div12 {
