@@ -6,8 +6,8 @@
 
 
 .container {
-    width: 1200px;
-    height: 2000px;
+    width: 1000px;
+    height: 2200px;
     border: 1px solid black;
     margin: 100px;
 }
@@ -15,7 +15,7 @@
 .div3 {
     padding: 20px;
     display: flex;
-    gap: 600px;
+    gap: 400px;
     justify-content: space-around;
 }
 
@@ -30,13 +30,12 @@
     height: 520px;
     border-radius: 180px;
     border: 8px solid #A383E9;
-    background: url(<path-to-image>), lightgray -65.593px -3.763px / 137.387% 128.416% no-repeat;
 }
 
 .div1 {
     display: flex;
-    gap: 100px;
-    padding: 100px;
+    gap: 80px;
+    padding: 80px;
 
 }
 
@@ -44,17 +43,14 @@
     margin-top: 100px;
 }
 
-.bobur {
-    color: #C5C5C5;
-    font-style: normal;
-    text-transform: uppercase;
-    font-size: 96.98px;
-}
 
 .div2 {
     display: flex;
-    gap: 80px;
     justify-content: space-around;
+}
+
+.div12 {
+    padding-top: 100px;
 }
 
 .div5 {
@@ -96,6 +92,7 @@ button {
     display: flex;
     gap: 30px;
     background-color: blueviolet;
+    justify-content: space-around;
 }
 
 .h1 {
@@ -103,7 +100,6 @@ button {
     font-size: 96.98px;
     font-style: normal;
     text-transform: uppercase;
-    margin-top: 80px;
 }
 
 .div9 {
@@ -130,8 +126,15 @@ button {
 }
 
 
-.jj {
-    width: 90px;
-    height: 90px;
-    text-align: center;
+.div11 {
+    display: flex;
+    gap: 100px;
+    padding-left: 70px;
+    padding-top: 50px;
+    background-color:#382D50;
+    color: #C5C5C5;
+}
+
+.list {
+    list-style: none;
 }
